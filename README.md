@@ -1,4 +1,4 @@
-# Synthetical-Airline Data Report (Tableau Dashboard)
+# Synthetical-Airline Data Report (Tableau Dashboards)
 
 ## Introduction
 
